@@ -1,0 +1,42 @@
+.boardContainer {
+  margin-top:40px;
+  color:white;
+  width:600px;
+  margin:auto;
+  text-align: center;
+}
+
+.timer {
+  font-size:24px;
+  text-align: center; 
+}
+
+.homeBtn {
+    width:250px;
+    height: 40px;
+    display:block;
+    margin:auto;
+    margin-top:50px;
+    margin-bottom:50px;
+    border-radius: 5px;
+    border:none;
+    cursor: pointer;
+    font-size:18px;
+    font-weight: bold;
+    transition:0.3s;
+    &:hover {
+      background: whitesmoke;
+    }
+}
+
+@media only screen and (max-width: 640px) {
+  .boardContainer {
+    width: 400px;
+    text-align: center;
+  }
+  .timer {
+    font-size:20px;
+    margin-bottom:40px;
+    text-align: center; 
+  }
+}
