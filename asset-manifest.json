@@ -1,13 +1,13 @@
 {
-  "main.css": "/MatchingGame/static/css/main.218e7064.chunk.css",
-  "main.js": "/MatchingGame/static/js/main.5a08d630.chunk.js",
-  "main.js.map": "/MatchingGame/static/js/main.5a08d630.chunk.js.map",
+  "main.css": "/MatchingGame/static/css/main.8effb175.chunk.css",
+  "main.js": "/MatchingGame/static/js/main.adf4bab7.chunk.js",
+  "main.js.map": "/MatchingGame/static/js/main.adf4bab7.chunk.js.map",
   "static/js/1.6d2248c7.chunk.js": "/MatchingGame/static/js/1.6d2248c7.chunk.js",
   "static/js/1.6d2248c7.chunk.js.map": "/MatchingGame/static/js/1.6d2248c7.chunk.js.map",
   "runtime~main.js": "/MatchingGame/static/js/runtime~main.8a4e08cc.js",
   "runtime~main.js.map": "/MatchingGame/static/js/runtime~main.8a4e08cc.js.map",
-  "static/css/main.218e7064.chunk.css.map": "/MatchingGame/static/css/main.218e7064.chunk.css.map",
+  "static/css/main.8effb175.chunk.css.map": "/MatchingGame/static/css/main.8effb175.chunk.css.map",
   "index.html": "/MatchingGame/index.html",
-  "precache-manifest.fa9c97ed497cffbc04ad15db1f7671ea.js": "/MatchingGame/precache-manifest.fa9c97ed497cffbc04ad15db1f7671ea.js",
+  "precache-manifest.381bd8d3c8336a11126a43aa22b53b5b.js": "/MatchingGame/precache-manifest.381bd8d3c8336a11126a43aa22b53b5b.js",
   "service-worker.js": "/MatchingGame/service-worker.js"
 }

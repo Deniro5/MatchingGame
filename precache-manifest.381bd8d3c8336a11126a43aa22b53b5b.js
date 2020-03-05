@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/MatchingGame/static/js/runtime~main.8a4e08cc.js"
   },
   {
-    "revision": "5a08d630984b2bfce4b7",
-    "url": "/MatchingGame/static/js/main.5a08d630.chunk.js"
+    "revision": "adf4bab7a4adc548df71",
+    "url": "/MatchingGame/static/js/main.adf4bab7.chunk.js"
   },
   {
     "revision": "6d2248c725aa839ee0a7",
     "url": "/MatchingGame/static/js/1.6d2248c7.chunk.js"
   },
   {
-    "revision": "5a08d630984b2bfce4b7",
-    "url": "/MatchingGame/static/css/main.218e7064.chunk.css"
+    "revision": "adf4bab7a4adc548df71",
+    "url": "/MatchingGame/static/css/main.8effb175.chunk.css"
   },
   {
-    "revision": "951a41fd56f2517040c57b3ef394c033",
+    "revision": "767f60cc46a209d956a06af72a2a5933",
     "url": "/MatchingGame/index.html"
   }
 ];
