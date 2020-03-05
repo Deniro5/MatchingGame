@@ -2,13 +2,14 @@
   "name": "Matching-Game",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://deniro5.github.io/MatchingGame/",
   "dependencies": {
     "@material-ui/core": "3.6.1",
     "@material-ui/icons": "3.0.1",
     "antd": "^3.20.7",
     "classnames": "^2.2.6",
     "history": "^4.10.1",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "react": "0.0.0-b53ea6ca0",
     "react-dom": "0.0.0-b53ea6ca0",
     "react-material-ui-form-validator": "^2.0.3",
@@ -20,6 +21,8 @@
     "save": "^2.4.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -33,5 +36,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
 }
